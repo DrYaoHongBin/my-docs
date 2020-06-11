@@ -7,6 +7,10 @@
 [GitHub](https://github.com/Snailclimb/docsify-demo)
 [开始阅读](#docsify-demo)
 
+<!-- 背景图片 -->
+
+<!-- ![](_media/bg.png) -->
+
 
 
 
